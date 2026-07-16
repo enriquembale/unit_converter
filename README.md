@@ -1,6 +1,6 @@
 # Unit Converter (Written in C)
 
-A unit converter i wrote while learning C
+A unit converter i wrote while learning C at 16
 
 This repository contains several versions of the project to document my progress as i learned new concepts\
 
