@@ -1,12 +1,12 @@
-# Unit Converter (C)
+# Unit Converter (Written in C)
 
-A unit converter i wrote while learning C.
+A unit converter i wrote while learning C
 
-This repository contains several versions of the project to document my progress as I learned new concepts.\
+This repository contains several versions of the project to document my progress as i learned new concepts\
 
 ## How It Works
 
-The converter uses a **base unit** for each measurement category. Instead of creating a separate formula for every possible conversion, each unit stores a conversion factor relative to its category's base unit.\
+The converter uses a **base unit** for each measurement category. Instead of creating a separate formula for every possible conversion, each unit stores a conversion factor relative to its category's base unit\
 
 For example:
 
@@ -41,11 +41,11 @@ This approach keeps the conversion logic simple and scalable. Adding a new unit 
 - Pointer-based lookup
 
 ### Version 3 (Version im most proud of)
-- Command-line interface
-- Command-line argument parsing
+- cli
+- cli argument paring
 - Help and list commands
 
-## Supported conversions (I'll try to add more)
+## Supported conversions (I'll try to add more if im not lazy)
 
 - Length
 - Weight
